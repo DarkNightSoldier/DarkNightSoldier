@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DarkNightSoldier
 - 👀 I’m interested in scientific computing
-- 🌱 I’m currently learning Artificial Intelligence
+- 🌱 I’m currently learning Data Science and Artificial Intelligence
 - 💞️ I’m looking to collaborate on AI projects
 - 📫 If you want to contact me, send me a email to ahiguerac@unal.edu.co
 
